@@ -1,0 +1,6 @@
+{
+    "presets": [
+        "@babel/preset-env", //trabajar con SMASCRIPT 5 y &
+        "@babel/preset-react"// JSX y React
+    ]
+}

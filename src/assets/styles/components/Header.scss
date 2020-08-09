@@ -1,0 +1,77 @@
+@import '../Vars.scss';
+
+.header {
+    align-items: center;
+    color: $text-color;
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+    top: 0px;
+    width: 100%;
+  }
+  
+  .header__img {
+    margin-left: 30px;
+    width: 200px;
+    @media (max-width: 768px) { 
+      margin-left: 8px;
+    width: 147px;
+    }
+  }
+  
+  .header__menu {
+      margin-right: 30px;
+      @media (max-width: 768px) { 
+        margin-right: 10px;
+       
+      }
+  }
+  
+  .header__menu ul {
+    display: none;
+    list-style: none;
+    margin: 0px 0px 0px 68px;
+    padding: 0px;
+    position: absolute;
+    width: 100px;
+    text-align: right;
+    @media (max-width: 768px) { 
+      margin: 0px 0px 0px 41px;
+    }
+  }
+  
+  .header__menu:hover ul, ul:hover {
+      display: block;
+  }
+  
+  .header__menu li {
+    margin: 10px 0px;
+  }
+  
+  .header__menu li a {
+    color: $text-color;
+    text-decoration: none;
+  }
+  
+  .header__menu li a:hover {
+    text-decoration: underline;
+  }
+  
+  .header__menu--profile {
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+    border-radius: 1rem;
+    background: $background-color;
+    padding: 0.5rem;
+  }
+  
+  .header__menu--profile img {
+    margin-right: 8px;
+    width: 3.5rem;
+    @media (max-width: 768px) { 
+      margin-right: 1px;
+      width: 2.5rem;
+      font-size: 1rem;
+    }
+  }

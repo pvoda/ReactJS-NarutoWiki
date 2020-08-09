@@ -1,0 +1,32 @@
+@import '../Vars.scss';
+
+.main_paragraph {
+  color: $text-color;
+  font-size: 1.3rem;
+  text-align: center;
+  background: $background-color;
+  border-radius: 1rem;
+  padding: 1rem;
+  margin: -2rem;
+}
+
+.main {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding: 2rem;
+    margin: 3rem;
+  }
+  
+  .main__title {
+    color: $text-color;
+    font-size: 5rem;
+    @media (max-width: 768px) { 
+      font-size: 3rem;
+     
+    }
+  }
+

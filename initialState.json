@@ -1,0 +1,279 @@
+{
+    "initialState": {
+      "Genin": [
+        {
+          "id": 1,
+          "name": "Naruto Uzumaki",
+          "aldea": "Konoha",
+          "habilidad": "Lava, Iman, Ebullición",
+          "clan": "Uzumaki",
+          "source": "https://naruto.fandom.com/es/wiki/Naruto_Uzumaki",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/a/a2/Naruto_Uzumaki_Parte_II_Anime.png/revision/latest?cb=20161013194453&path-prefix=es"
+        },
+        {
+          "id": 2,
+          "name": "Konohamaru Sarutobi",
+          "aldea": "Konoha",
+          "habilidad": "No Aplica",
+          "clan": "Sarutobi",
+          "source": "https://naruto.fandom.com/es/wiki/Konohamaru_Sarutobi",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/6/62/Konohamaru_Parte_II_Anime.png/revision/latest?cb=20121019190755&path-prefix=es"
+
+        }
+      ],
+      
+      "Chunnin": [
+        {
+          "id": 3,
+          "name": "Sakura Haruno",
+          "aldea": "Konoha",
+          "habilidad": "No aplica",
+          "clan": "Uchiha",
+          "source": "https://naruto.fandom.com/es/wiki/Sakura_Haruno",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/2/20/Sakura_Haruno_Parte_II_Anime.png/revision/latest?cb=20140318191249&path-prefix=es"
+        },
+        {
+          "id": 4,
+          "name": "Shino Aburame",
+          "aldea": "Konoha",
+          "habilidad": "No aplica",
+          "clan": "Aburame",
+          "source": "https://naruto.fandom.com/es/wiki/Shino_Aburame",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/8/87/Shino_Aburame_Parte_II_Anime.png/revision/latest?cb=20140318002515&path-prefix=es"
+
+        },
+        {
+          "id": 5,
+          "name": "Kiba Inuzuka",
+          "aldea": "Konoha",
+          "habilidad": "No aplica",
+          "clan": "Inuzuka",
+          "source": "https://naruto.fandom.com/es/wiki/Kiba_Inuzuka",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/0/06/Kiba_Per%C3%ADodo_de_Cambios_Anime.png/revision/latest?cb=20170401195827&path-prefix=es"
+
+        },
+        {
+          "id": 6,
+          "name": "Hinata Hyūga",
+          "aldea": "Konoha",
+          "habilidad": "Byakugan",
+          "clan": "Hyūga",
+          "source": "https://naruto.fandom.com/es/wiki/Hinata_Hy%C5%ABga",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/1/1a/Hinata_Hy%C5%ABga_Parte_II_Anime.png/revision/latest?cb=20140213144352&path-prefix=es"
+
+        },
+        {
+          "id": 7,
+          "name": "Chōji Akimichi",
+          "aldea": "Konoha",
+          "habilidad": "No aplica",
+          "clan": "Akimichi",
+          "source": "https://naruto.fandom.com/es/wiki/Ch%C5%8Dji_Akimichi",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/1/1f/Ch%C5%8Dji_Akimichi_Parte_II.png/revision/latest?cb=20120821222047&path-prefix=es"
+
+        },
+        {
+          "id": 8,
+          "name": "Ino Yamanaka",
+          "aldea": "Konoha",
+          "habilidad": "No aplica",
+          "clan": "Yamanaka",
+          "source": "https://naruto.fandom.com/es/wiki/Ino_Yamanaka",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/3/3a/Ino_Yamanaka_Parte_II_Anime.png/revision/latest?cb=20140527005145&path-prefix=es"
+
+        },
+        {
+          "id": 9,
+          "name": "Tenten",
+          "aldea": "Konoha",
+          "habilidad": "No aplica",
+          "clan": "No aplica",
+          "source": "https://naruto.fandom.com/es/wiki/Tenten",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/e/e6/Tenten_Parte_II_Anime.png/revision/latest?cb=20140322204112&path-prefix=es"
+
+        },
+        {
+          "id": 10,
+          "name": "Shikamaru Nara",
+          "aldea": "Konoha",
+          "habilidad": "No aplica",
+          "clan": "Nara",
+          "source": "https://naruto.fandom.com/es/wiki/Shikamaru_Nara",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/5/59/Shikamaru_Nara_Parte_I_Anime.png/revision/latest?cb=20140321165426&path-prefix=es"
+          
+        },
+        {
+          "id": 11,
+          "name": "Rock Lee",
+          "aldea": "Konoha",
+          "habilidad": "No aplica",
+          "clan": "Lee",
+          "source": "https://naruto.fandom.com/es/wiki/Rock_Lee",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/f/fa/Rock_Lee_Parte_II_Anime.png/revision/latest?cb=20130608162712&path-prefix=es"
+          
+        }
+      ],
+      "Joinin": [
+        {
+          "id": 12,
+          "name": "Jiraiya",
+          "aldea": "Konoha",
+          "habilidad": "No aplica",
+          "clan": "No aplica",
+          "source": "https://naruto.fandom.com/es/wiki/Jiraiya",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/b/b8/Jiraiya_Anime.png/revision/latest?cb=20130306012254&path-prefix=es"
+          
+        },
+        {
+          "id": 13,
+          "name": "Kakashi Hatake",
+          "aldea": "Konoha",
+          "habilidad": "Mangekyō Sharingan",
+          "clan": "Hatake",
+          "source": "https://naruto.fandom.com/es/wiki/Kakashi_Hatake",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/c/cf/Kakashi_Hatake_Parte_III_Anime.png/revision/latest/scale-to-width-down/350?cb=20170628190454&path-prefix=es"
+
+        },
+        {
+          "id": 14,
+          "name": "Asuma Sarutobi",
+          "aldea": "Konoha",
+          "habilidad": "No aplica",
+          "clan": "Sarutobi",
+          "source": "https://naruto.fandom.com/es/wiki/Asuma_Sarutobi",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/6/64/Asuma_Sarutobi_Parte_I_y_II_Anime.png/revision/latest?cb=20130203133444&path-prefix=es"
+          
+        },
+        {
+          "id": 15,
+          "name": "Kurenai Yūhi",
+          "aldea": "Konoha",
+          "habilidad": "No aplica",
+          "clan": "Sarutobi",
+          "source": "https://naruto.fandom.com/es/wiki/Kurenai_Y%C5%ABhi",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/9/98/Kurenai_Y%C5%ABhi_Parte_I_Anime.png/revision/latest?cb=20171227003517&path-prefix=es"
+          
+        },
+        
+        
+        {
+          "id": 16,
+          "name": "Neji Hyūga",
+          "aldea": "Konoha",
+          "habilidad": "No aplica",
+          "clan": "Hyūga",
+          "source": "https://naruto.fandom.com/es/wiki/Neji_Hy%C5%ABga",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/0/01/Neji_Hy%C5%ABga_Parte_I_Anime.png/revision/latest?cb=20140426223545&path-prefix=es"
+          
+        },
+        
+        {
+          "id": 17,
+          "name": "Might Guy",
+          "aldea": "Konoha",
+          "habilidad": "No aplica",
+          "clan": "No aplica",
+          "source": "https://naruto.fandom.com/es/wiki/Might_Guy",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/7/7f/Might_Guy_Parte_I_y_II_Anime.png/revision/latest?cb=20140606195700&path-prefix=es"
+          
+        },
+        {
+          "id": 18,
+          "name": "Kankurō",
+          "aldea": "Sunagakure",
+          "habilidad": "No aplica",
+          "clan": "Kazekage",
+          "source": "https://naruto.fandom.com/es/wiki/Kankur%C5%8D",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/3/36/Kankur%C5%8D_Parte_II_Anime.png/revision/latest?cb=20140107032603&path-prefix=es"
+          
+        },
+        {
+          "id": 19,
+          "name": "Temari",
+          "aldea": "Sunagakure",
+          "habilidad": "No aplica",
+          "clan": "Kazekage",
+          "source": "https://naruto.fandom.com/es/wiki/Temari",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/5/5d/Temari_Parte_II_Anime.png/revision/latest?cb=20130126195803&path-prefix=es"
+          
+        }
+        
+
+      ],
+      "Kage": [
+        {
+          "id": 20,
+          "name": "Hiruzen Sarutobi",
+          "aldea": "Konoha",
+          "habilidad": "No Aplica",
+          "clan": "Sarutobi",
+          "source": "https://naruto.fandom.com/es/wiki/Hiruzen_Sarutobi",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/a/af/Hiruzen_Sarutobi_Parte_I_Anime.png/revision/latest?cb=20160321031300&path-prefix=es"
+
+        },
+        {
+          "id": 21,
+          "name": "Tsunade",
+          "aldea": "Konoha",
+          "habilidad": "No Aplica",
+          "clan": "Senju",
+          "source": "https://naruto.fandom.com/es/wiki/Tsunade",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/f/f6/Tsunade_Parte_I%2C_II_y_III_Anime.png/revision/latest?cb=20161227023127&path-prefix=es"
+
+        },
+        {
+          "id": 22,
+          "name": "Gaara",
+          "aldea": "Sunagakure",
+          "habilidad": "Imán",
+          "clan": "Kazekage",
+          "source": "https://naruto.fandom.com/es/wiki/Gaara",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/a/ac/Gaara_%28Periodo_de_Cambios%29.png/revision/latest?cb=20170302151604&path-prefix=es"
+
+        },
+        {
+          "id": 23,
+          "name": "Minato Namikaze",
+          "aldea": "Konoha",
+          "habilidad": "No Aplica",
+          "clan": "No Aplica",
+          "source": "https://naruto.fandom.com/es/wiki/Minato_Namikaze",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/5/5e/Minato_Namikaze_Anime.png/revision/latest?cb=20170925033642&path-prefix=es"
+
+        }
+       
+      ],
+      "Akatsuki": [
+        {
+          "id": 24,
+          "name": "Itachi Uchiha",
+          "aldea": "Konoha",
+          "habilidad": "Sharingan, Mangekyō Sharingan",
+          "clan": "Uchiha",
+          "source": "https://naruto.fandom.com/es/wiki/Itachi_Uchiha",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/c/c8/Itachi_Uchiha_Parte_I_y_II_Anime.png/revision/latest?cb=20170113110759&path-prefix=es"
+
+        },
+        {
+          "id": 25,
+          "name": "Orochimaru",
+          "aldea": "Konoha",
+          "habilidad": "Madera",
+          "clan": "No Aplica",
+          "source": "https://naruto.fandom.com/es/wiki/Orochimaru",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/a/a8/Orochimaru_Parte_III_Anime.png/revision/latest?cb=20180807124827&path-prefix=es"
+
+        },
+        {
+          "id": 26,
+          "name": "Sasuke Uchiha",
+          "aldea": "Konoha",
+          "habilidad": "Sharingan, Mangekyō Sharingan",
+          "clan": "Uchiha",
+          "source": "https://naruto.fandom.com/es/wiki/Sasuke_Uchiha",
+          "image": "https://vignette.wikia.nocookie.net/naruto/images/f/fd/Sasuke_Uchiha_Parte_III_Anime.png/revision/latest/scale-to-width-down/350?cb=20161210224058&path-prefix=es"
+
+        }
+      ]
+    }
+  }

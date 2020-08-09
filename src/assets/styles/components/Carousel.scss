@@ -1,0 +1,42 @@
+@import "../Vars.scss";
+
+
+.carousel {
+  
+    width: 100%;
+    position: relative;
+    flex-wrap: wrap;
+    margin: 0rem;
+    padding: 0rem;
+    text-align: center;
+    align-items: center;
+    @media (max-width: 768px) { 
+      text-align: center;
+      padding: 0rem;
+      margin: 0.5rem;
+    }
+  }
+
+.carousel__container {
+   
+    text-align: start;
+    font-size: 1.5rem;
+    background: $background-color;
+    border-radius: 1rem;
+    margin: 2rem;
+    padding: 2rem;
+  
+    @media (max-width: 768px) { 
+      text-align: center;
+    }
+}
+
+  .carousel__container:hover .carousel-item {
+    opacity: 0.3;
+  }
+  
+  .carousel__container:hover .carousel-item:hover {
+    -webkit-transform: scale(1.5);
+            transform: scale(1.5);
+    opacity: 1;
+  }
